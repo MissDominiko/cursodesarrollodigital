@@ -1,0 +1,35 @@
+/*hoja de estilo principal */
+p {
+    color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    line-height: 200%;
+}
+
+#titulo-principal {
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.impares {
+    FONT-FAMILY: sans-serif;
+    COLOR: #166fb5;
+    BACKGROUND-COLOR: aliceblue;
+    text-align: center;
+}
+.pares {
+
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: darkslateblue;
+}
+
+                a :hover {
+                color: tomato;
+                background-color: yellow;
+                }
